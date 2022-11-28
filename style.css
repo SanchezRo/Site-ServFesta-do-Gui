@@ -1,8 +1,8 @@
 body {
     background-color: rgba(0, 171, 168, 0.185);
     color: rgb(240, 255, 37);
-    max-width: 800;
-    min-width: 400;
+    max-width: 800px;
+    min-width: 400px;
 }
 
 body {
@@ -13,6 +13,13 @@ body {
     background-size: cover;
 }
 
+header {
+    background-image: url(img/Fachada\ Maior.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
 
 nav {
     text-align: center;
@@ -59,14 +66,6 @@ h2 {
 footer img {
     width: 40px;
     height: 40px;
-}
-
-header {
-    background-image: url(img/Fachada\ Maior.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
 }
 
 footer {
