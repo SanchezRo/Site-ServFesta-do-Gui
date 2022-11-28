@@ -16,7 +16,7 @@ header {
     background-image: url(img/Fachada\ Maior.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: auto;
+    background-size: contain;
 }
 
 header img {
