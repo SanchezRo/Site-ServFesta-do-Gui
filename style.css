@@ -110,4 +110,5 @@ table, th, td {
     border-collapse: collapse;
     overflow-x: auto;
     margin: auto;
+    display: block;
 }
