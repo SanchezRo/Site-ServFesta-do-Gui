@@ -106,7 +106,7 @@ main#corpo {
 
 table, th, td {
     border: 3px solid;
-    border-color: rgb(255, 157, 9);
+    border-color: rgb(255, 157, 8);
     border-collapse: collapse;
     overflow-x: auto;
     margin: auto;
